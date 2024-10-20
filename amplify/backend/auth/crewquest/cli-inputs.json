@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "crewquest_identitypool_f7aa4258",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "crewquest",
+    "sharedId": "f7aa4258",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crewquest-dev-76dd1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::602663690474:role/amplify-crewquest-dev-76dd1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::602663690474:role/amplify-crewquest-dev-76dd1-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-crewquest-dev-76dd1-deployment",
+      "UnauthRoleName": "amplify-crewquest-dev-76dd1-unauthRole",
+      "StackName": "amplify-crewquest-dev-76dd1",
+      "StackId": "arn:aws:cloudformation:us-west-2:602663690474:stack/amplify-crewquest-dev-76dd1/983ee1f0-8efe-11ef-a1a5-02800437be15",
+      "AmplifyAppId": "dvpzcfa852mwp"
+    },
+    "categories": {
+      "auth": {
+        "crewquest": {}
+      }
+    }
+  }
+}
