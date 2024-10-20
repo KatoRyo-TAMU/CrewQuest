@@ -1,1 +1,8 @@
-export type AmplifyDependentResourcesAttributes = {}
+export type AmplifyDependentResourcesAttributes = {
+  "auth": {
+    "crewquest": {
+      "IdentityPoolId": "string",
+      "IdentityPoolName": "string"
+    }
+  }
+}
